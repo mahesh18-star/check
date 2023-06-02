@@ -1,2 +1,2 @@
 # check
-check repository
+check repository for git commands
